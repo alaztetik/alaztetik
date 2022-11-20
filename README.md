@@ -20,6 +20,8 @@
 
 :mailbox: How to reach me: [@AlazTetik](https://twitter.com/AlazTetik)
 
+:speedboat: Some practical code in [Gist](https://gist.github.com/alaztetik)
+
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@alaztetik/f4f55093-0426-4018-9ded-48bdbf2d68a5.png" /></a>
 
