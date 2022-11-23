@@ -6,9 +6,9 @@
 
 :seedling: I am currently learning and building some projects in:
 
-- **React.js** (web)
-- **Node.js** / **Express.js** (back-end)
-- **MongoDB** Atlas (db)
+- **React.js**
+- **Node.js** / **Express.js**
+- **MongoDB**
 - **MySQL**
 - **Golang**
 - **React Native**
