@@ -6,6 +6,7 @@
 
 :seedling: I am currently learning and building some projects in:
 
+- **JavaScript** & **TypeScript**
 - **React.js** & **React Native**
 - **Node.js** / **Express.js**
 - **MongoDB**
