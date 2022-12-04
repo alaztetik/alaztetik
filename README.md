@@ -6,12 +6,11 @@
 
 :seedling: I am currently learning and building some projects in:
 
-- **React.js**
+- **React.js** & **React Native**
 - **Node.js** / **Express.js**
 - **MongoDB**
 - **MySQL**
 - **Golang**
-- **React Native**
 - **Dart** / **Flutter**
 
 :satellite: I have a short, medium and long-term goals in my roadmap to become a **happy** software engineer.
