@@ -9,6 +9,7 @@
 - **JavaScript** & **TypeScript**
 - **React.js** & **React Native**
 - **Node.js** / **Express.js**
+- **PostgreSQL**
 - **MongoDB**
 - **MySQL**
 - **Golang**
