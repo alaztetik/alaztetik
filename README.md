@@ -4,16 +4,15 @@
 
 :runner: I have gained different skills throught the working years and most of them are transferable.
 
-:seedling: I am currently learning and building some projects in:
+:seedling: I am currently learning and building some projects with those technologies:
 
 - **JavaScript** & **TypeScript**
-- **React.js** & **React Native**
-- **Node.js** / **Express.js**
-- **PostgreSQL**
-- **MongoDB**
-- **MySQL**
-- **Golang**
-- **Dart** / **Flutter**
+- **Next.js**, **React.js** & **React Native**
+- **Nest.js**, **Node.js**, **Express.js**, **TypeORM**
+- **PostgreSQL**, **MongoDB** & **MySQL**
+- **Figma**, **Tailwind CSS**, **Mantine UI**
+- **Golang** (still learning)
+- **Dart** / **Flutter** (still learning)
 
 :satellite: I have a short, medium and long-term goals in my roadmap to become a **happy** software engineer.
 
