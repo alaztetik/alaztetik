@@ -23,9 +23,9 @@
 :speedboat: Some practical code in [Gist](https://gist.github.com/alaztetik)
 
 
-<a href="https://wakatime.com" style="display:inline-block;"><img src="https://wakatime.com/share/@alaztetik/f4f55093-0426-4018-9ded-48bdbf2d68a5.png" style="height: 300px; width: auto;" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@alaztetik/f4f55093-0426-4018-9ded-48bdbf2d68a5.png" style="height: 300px; width: auto; display:inline-block;" /></a>
 
-<a href="https://wakatime.com" style="display:inline-block;"><img src="https://wakatime.com/share/@alaztetik/82794439-0501-46ad-b6c0-b30765673c81.png" style="height: 300px; width: auto;" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@alaztetik/82794439-0501-46ad-b6c0-b30765673c81.png" style="height: 300px; width: auto; display:inline-block;" /></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@alaztetik/809deeda-6c3c-4cda-99a3-20ed19762b66.png" /></a>
 
